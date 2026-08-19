@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Harshad
 
-<!--
-**harshadjagtap17/harshadjagtap17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Telecommunication Engineering | VLSI | ASIC | Digital Design
 
-Here are some ideas to get you started:
+B.Tech EXTC student at **K. J. Somaiya Institute of Technology, Mumbai**, focused on **VLSI, ASIC design, DSP hardware, and wireless communication**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on hardware projects spanning **RTL design to synthesis, physical design, layout, and verification**.
+
+## Technical Skills
+
+**HDL & Digital:** Verilog, RTL Design, Digital Logic  
+**ASIC / VLSI:** Yosys, OpenLane, OpenROAD, Magic, Netgen, ngspice, SKY130  
+**Simulation:** MATLAB, Python, NumPy, Matplotlib  
+**FPGA:** Xilinx Vivado  
+**Circuit Design:** Xschem, SPICE
+
+## Projects
+
+### ASIC FIR Filter Accelerator
+6-tap symmetric FIR accelerator targeting the **SkyWater SKY130** open-source ASIC flow.
+
+`Verilog → Synthesis → STA → Floorplan → Placement → Routing → DRC/LVS → PEX`
+
+### Digital IC / ASIC Design
+Hands-on implementation of digital circuits through the **RTL-to-GDSII** flow using OpenLane, OpenROAD, Magic, Netgen, and ngspice.
+
+### Wireless Propagation Models
+Python-based implementation and analysis of:
+- Two-Ray Ground Reflection
+- Knife-Edge Diffraction
+- Free-Space Path Loss
+
+## Interests
+
+`VLSI` · `ASIC Design` · `Digital IC Design` · `DSP` · `RF & Wireless` · `Physical Design`
+
+## Currently Learning
+
+- Advanced Verilog and RTL Design
+- ASIC Physical Design
+- Static Timing Analysis
+- CMOS Digital Design
+- DSP Hardware Architectures
+- RF and Wireless Communication
+
+> Building from logic to silicon.
