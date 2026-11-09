@@ -58,23 +58,6 @@ A synthesizable Verilog implementation of a four-requester round-robin arbitrati
 
 ---
 
-### 3. AES-128 Encryption on FPGA
-An FPGA-oriented hardware implementation of the AES-128 encryption algorithm.
-
-**Focus:** Digital hardware architecture, Verilog RTL, simulation, and FPGA implementation.
-
----
-
-### 4. Wireless Propagation Models
-Python-based implementation and analysis of fundamental wireless propagation models.
-
-- Free-Space Path Loss (FSPL)
-- Two-Ray Ground Reflection
-- Knife-Edge Diffraction
-
-**Tools:** Python, NumPy, Matplotlib
-
----
 
 ## Achievements & Activities
 
