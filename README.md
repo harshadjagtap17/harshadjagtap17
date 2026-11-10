@@ -95,10 +95,11 @@ YOLO-based computer vision system for automated propeller detection, reference-g
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshadjagtap17&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshadjagtap17&layout=compact&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=harshadjagtap17&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshadjagtap17&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
 
 ---
 
-> **Building from RTL to Silicon. Exploring beyond the boundaries of hardware.**
+> Building from RTL to Silicon. Exploring beyond the boundaries of hardware.
